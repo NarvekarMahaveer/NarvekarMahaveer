@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mahaveer Narvekar
 - 👀 I’m interested in Website and App development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Software Development
+- 📫 You can reach out to be via email. Email - meshcookies@gmail.com
 
 <!---
 NarvekarMahaveer/NarvekarMahaveer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
